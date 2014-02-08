@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400);
 
 /*This site was hacked together by Linh <3*/
 
@@ -19,8 +19,8 @@ body {
 
 .custom-font {
 	color:white;
-	font-family: "Roboto", Helvetica Neue, Helvetica, sans-serif;
-	font-weight: 100;
+	font-family: "Ubuntu", Helvetica Neue, Helvetica, sans-serif;
+	font-weight: 400;
 	font-size: 64px;
 	line-height: 70px;
 }
@@ -28,8 +28,8 @@ body {
 h2 {
 	padding-bottom: 2%;
 	color: white;
-	font-family: "Roboto", Helvetica Neue, Helvetica, sans-serif;
+	font-family: "Ubuntu", Helvetica Neue, Helvetica, sans-serif;
 	font-weight: 300;
-	font-size: 32px;
-	line-height: 40px;
+	font-size: 28px;
+	line-height: 35px;
 }
