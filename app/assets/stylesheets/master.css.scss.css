@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400);
+
+/*This site was hacked together by Linh <3*/
+
+.steamy-hottub {
+	box-shadow: 2px -2px 2px 2px rgba(36,32,33,0.50);
+	background-color: rgba(36,32,33,0.50);
+	padding: 3%;
+	margin-top: 2%;
+}
+
+body {
+	background: url('onsenmonkey.jpg') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;;
+}
+
+.custom-font {
+	color:white;
+	font-family: "Roboto", Helvetica Neue, Helvetica, sans-serif;
+	font-weight: 100;
+	font-size: 64px;
+	line-height: 70px;
+}
+
+h2 {
+	color: white;
+	font-family: "Roboto", Helvetica Neue, Helvetica, sans-serif;
+	font-weight: 300;
+	font-size: 32px;
+	line-height: 40px;
+}
