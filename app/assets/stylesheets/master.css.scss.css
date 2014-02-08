@@ -33,3 +33,10 @@ h2 {
 	font-size: 28px;
 	line-height: 35px;
 }
+
+label{
+	color:white;
+	font-family: "Ubuntu", Helvetica Neue, Helvetica, sans-serif;
+	font-weight: 400;
+	font-size: 21px;
+}
