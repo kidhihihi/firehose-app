@@ -4,6 +4,8 @@
 		<%= simple_form_for @pic do |f| %>
 			<%= f.input :hour, label: 'Which hour was this?', placeholder: '1, 2, 3, etc.' %>
 			<br>
+			<%= f.input :image, label: 'Monkey portrait' %>
+			<br> 
 			<%= f.input :emotion, label: 'How did you feel?', placeholder: 'Stoked, Excited, Confused, etc.' %>
 			<br>
 			<%= f.input :learned, label: 'What did you learn?', placeholder: 'HTML, CSS, Ruby, Rails, GitHub, etc.' %>
